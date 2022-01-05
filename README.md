@@ -10,7 +10,7 @@
 </div>
 
 <!--뱃지-->
-<a href="https://naver.com" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/hyeon_k97/" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--커밋 스테이트-->
 ![baka9131's github stats](https://github-readme-stats.vercel.app/api?username=baka9131&show_icons=true)
