@@ -12,12 +12,12 @@
 <!--뱃지-->
 <a href="https://www.instagram.com/hyeon_k97/" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
++ ### Python
+  + Instagram Follow / Unfollow Bot
+
 <!--커밋 스테이트-->
 ![baka9131's github stats](https://github-readme-stats.vercel.app/api?username=baka9131&show_icons=true)
 [![baka9131's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baka9131&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/baka9131)
 
 <!--스테이트-->
 ![trophy](https://github-profile-trophy.vercel.app/?username=baka9131)
-
-+ ### Python
-  + Instagram Follow / Unfollow Bot
