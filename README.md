@@ -11,6 +11,9 @@
   + Opic IM2 Level
 + 🧑‍🎓 인하대학교 컴퓨터공학과 졸업 16-24
 + ![티스토리](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white") 21-now
+  + 플러터 챌린지 1기 참여
+    + https://kilee.craft.me/challenge-one / 소개
+    + https://kilee.craft.me/dashboard / 문제 제출
 
 ---
 
