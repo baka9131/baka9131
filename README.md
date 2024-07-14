@@ -11,11 +11,8 @@
 + 🏫 인하대학교 2-3-4학년 20-22.9
 + 🇨🇦 밴쿠버 워킹홀리데이 22-23
   + Opic IM2 Level
-+ 🧑‍🎓 인하대학교 컴퓨터공학과 졸업 24-
-+ ![티스토리](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white") 21-now
-  + 플러터 챌린지 1기 참여
-    + https://kilee.craft.me/challenge-one / 소개
-    + https://kilee.craft.me/dashboard / 문제 제출
++ 🧑‍🎓 인하대학교 컴퓨터공학과 졸업 24.2
++ BGPWORKS 재직 중 24.3-
 
 ---
 
